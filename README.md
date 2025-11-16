@@ -1,3 +1,3 @@
-  экземпляр бота: @puzyrek_goat_bot
+  экземпляр бота: https://t.me/puzyrek_goat_bot
 
   бот был создан для телеграмм проекта https://t.me/WastelandWarsBot
